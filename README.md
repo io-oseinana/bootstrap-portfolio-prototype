@@ -1,56 +1,47 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Portfolio Bootstrap Prototype
 
-# Project Name
-
-> Description the project.
+> Prototype of Portfolio built with Bootstrap, html and css for responsive devices.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML AND CSS
+- Bootstrap
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+- Git must be installed on local machine
+- Must have a code editor
+  
 ### Setup
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+```
+git clone https://github.com/io-oseinana/bootstrap-portfolio-prototype.git
+```
+```
+cd bootstrap-portfolio-prototype
+```
+- Have fun 💻️
 
 ## Authors
 
-👤 **Author1**
+👤 **Osei-Bonsu Isaac**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@io-oseinana](https://github.com/io-oseinana)
+- Twitter: [@IsaacOs87131165](https://twitter.com/IsaacOs87131165)
+- LinkedIn: [oseinana-isaac7](https://www.linkedin.com/in/oseinana-isaac7)
 
-👤 **Author2**
+👤 **Ahmed Waqar**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@UREYPRICE](https://github.com/UREYPRICE)
+- Twitter: [@AhmedWaqarQayum](https://twitter.com/AhmedWaqarQayum)
+- LinkedIn: [AhmedWaqarQayum](https://www.linkedin.com/in/AhmedWaqarQayum)
+
 
 ## 🤝 Contributing
 
